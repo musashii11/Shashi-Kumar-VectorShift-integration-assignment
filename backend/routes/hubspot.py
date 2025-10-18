@@ -1,5 +1,4 @@
 # src/routes/hubspot.py
-
 import os
 import uuid
 import json
