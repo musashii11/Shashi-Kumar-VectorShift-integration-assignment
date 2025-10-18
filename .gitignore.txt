@@ -1,0 +1,23 @@
+documentation.md
+
+
+# Python virtual environment
+backend/venv/
+backend/__pycache__/
+backend/*.pyc
+
+# Node.js dependencies
+frontend/node_modules/
+
+
+
+# Environment files
+*.env
+.env.*
+
+# Redis dump files
+dump.rdb
+
+# IDE / Editor settings
+.vscode/
+.idea/
